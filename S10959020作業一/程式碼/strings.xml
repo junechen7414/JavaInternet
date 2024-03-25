@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EX1</string>
+    <string-array name="sports">
+        <item>慢走</item>
+        <item>中走</item>
+        <item>快走</item>
+    </string-array>
+</resources>
